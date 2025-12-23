@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "OUR ALWAYS",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T06:00:12.642409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OUR ALWAYS",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_OUR_ALWAYS_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OUR ALWAYS",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_OUR_ALWAYS_UVERworld.txt"
+    }
+  ]
+}
